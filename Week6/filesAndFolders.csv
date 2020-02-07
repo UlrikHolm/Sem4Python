@@ -1,0 +1,18 @@
+
+Dir: .
+	exercise1.py
+	files.csv
+	filesAndFolders.csv
+	list.csv
+	mdfile1.md
+	mdfile1Copy.md
+	names.csv
+	namesCopy.csv
+	utils.py
+Dir: .\folder1
+	list.csv
+	names.csv
+Dir: .\folder2
+	file1.csv
+	file2.csv
+	file3.csv
