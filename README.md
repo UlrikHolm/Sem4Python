@@ -7,3 +7,4 @@
 ###### Week 7
 [Se Week 7](week7)
 ###### Week 8
+[Se Week 8](week8)
