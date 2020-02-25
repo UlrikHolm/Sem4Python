@@ -11,7 +11,7 @@
   1. What is the change in pct of divorced danes from 2008 to 2020?
   2. Which of the 5 biggest cities has the highest percentage of 'Never Married'?
   3. Show a bar chart of changes in marrital status in Copenhagen from 2008 till now
-  3. Show a bar chart of 'Married' and 'Never Married' for all ages in DK (Hint: 2 bars of different color)
+  4. Show a bar chart of 'Married' and 'Never Married' for all ages in DK (Hint: 2 bars of different color)
   
 ## Ex2 Use another table (ikke lavet)
 Choose any of the other tables in 'databanken' to find interesting data.
