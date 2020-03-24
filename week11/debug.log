@@ -1,0 +1,16 @@
+[0324/222316.548:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/222316.549:ERROR:exception_snapshot_win.cc(98)] thread ID 10696 not found in process
+[0324/222316.548:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/222316.549:ERROR:exception_snapshot_win.cc(98)] thread ID 1148 not found in process
+[0324/222316.559:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/222316.559:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/222316.559:ERROR:exception_snapshot_win.cc(98)] thread ID 7960 not found in process
+[0324/222316.560:ERROR:exception_snapshot_win.cc(98)] thread ID 5352 not found in process
+[0324/232453.542:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/232453.543:ERROR:exception_snapshot_win.cc(98)] thread ID 2572 not found in process
+[0324/232453.566:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/232453.566:ERROR:exception_snapshot_win.cc(98)] thread ID 18544 not found in process
+[0324/232453.600:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/232453.600:ERROR:exception_snapshot_win.cc(98)] thread ID 18764 not found in process
+[0324/232453.626:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0324/232453.626:ERROR:exception_snapshot_win.cc(98)] thread ID 17868 not found in process
